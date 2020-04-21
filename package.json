@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/wayneseymour/describe-it/issues"
   },
-  "homepage": "https://github.com/wayneseymour/describe-it#readme"
+  "homepage": "https://github.com/wayneseymour/describe-it#readme",
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.5",
+    "babel-jest": "^25.4.0",
+    "jest": "^25.4.0"
+  }
 }
